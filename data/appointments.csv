@@ -1,0 +1,3 @@
+Appointment ID,Patient ID,Doctor ID,Date,Time,Status
+A001,P002,D001,2026-09-13,10:00,Cancelled
+A002,P001,D002,2026-09-13,10:00,Scheduled
